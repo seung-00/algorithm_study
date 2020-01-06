@@ -23,16 +23,18 @@
    * 이론 정리 및 코드 리뷰
    
  
-## 일정 ##
+### week 1 ###
 
-**2019.01.06**
+​	**2019.01.06**
 
-* OT
+ * [list 1] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg): 오승영
 
-**2019.01.07**
+​	**2019.01.08**
 
-* [List 1] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg)
+ * [list 2] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVF-WqqecDFAWg): 정승호
 
-**2019.01.07**
+​	**2019.01.10**
 
-* [List 2]
+ * [string] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVGOEKqeoDFAWg): 김연준
+
+
