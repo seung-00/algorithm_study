@@ -30,6 +30,8 @@
 
 
 
+
+
 ## 패턴 매칭
 
 ### 고지식한 알고리즘(Brute Force)
@@ -70,8 +72,6 @@
 * 오른쪽에서 왼쪽으로 비교, 상용 소프트웨어에서 쓰임
 
 <img src="https://user-images.githubusercontent.com/46865281/72220608-9dad4900-3595-11ea-9ad2-762afbb6bd3a.png" alt="image" style="zoom:30%;" />
-
-<img src="/Users/seungyoungoh/Library/Application Support/typora-user-images/image-20200112234757336.png" alt="image-20200112234757336" style="zoom:30%;" />
 
 
 
