@@ -7,32 +7,91 @@
 
 2. **구상**
 
-   * 자료구조 및 이론 3주, 알고리즘 5주
-   * SWEA에서 Programming Intermediate, Advanced 강의와 문제 활용
+   * 강의와 문제 활용
+
+   * 자료구조 3주
+      * 파이썬 SW문제해결, SW 문제해결 각 일차 + self study book
+
+   * 알고리즘 5주
 
    참고: https://swexpertacademy.com/main/learn/course/courseList.do#none
 
 3. **집에서**
 
-   * 각자 강의 듣고 그 날(혹은 그 주) 스터디장이 해당 강의의 문제들을 선별해서 알려줌
-   * 스터디장은 다른 스터디원이 문제를 풀 수 있도록 일찍 강의를 들을 것, 로테이션
-   * 스터디원은 모임 전까지 그 문제를 풀고 깃허브에 올림
+   * 각자 강의 듣고 해당 문제 품
+   * 모임 전까지 깃허브에 코드 올림
 
 4. **만나서**
 
-   * 이론 정리 및 코드 리뷰
-   
- 
+   * 그 날 담당자가 이론 및 문제 요약
+* 코드 리뷰
+   * 파이썬 sw문제해결 기본, sw문제해결 기본 마지막 문제 만나서 풀기(두 문제)
+
+5. **규칙**
+
+   * 지각비: 기본 3000원 +3시 5분부터 5분 단위로 500원
+
+     
+
 ## 일정 ##
+
+### week 1 ###
 
 **2019.01.06**
 
 * OT
 
-**2019.01.07**
+  
 
-* [List 1] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg)
+**2019.01.08**
 
-**2019.01.07**
+ * 담당: 오승영
 
-* [List 2]
+ * [list 1] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVFCzaqeUDFAWg)
+
+ * [array 1] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AV183wv6I7QCFAZN)
+
+   
+
+**2019.01.10**
+
+ * 담당: 정승호
+
+ * [list 2] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVF-WqqecDFAWg)
+
+ * [array 2] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AV1835EaI7YCFAZN)
+
+   
+
+---
+
+### week 2 ###
+
+**2019.01.13**
+
+ * 담당: 김연준
+ * [string(python)] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVGOEKqeoDFAWg)
+ * [string] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AV184ApaI7kCFAZN)
+
+
+
+**2019.01.15**
+
+ * 담당: 주인재
+ * [stack1(python)] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVHzyqqe8DFAWg)
+ * [stack1] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AV184o76I7sCFAZN)
+
+
+
+**2019.01.17**
+
+ * 담당: 오승영
+ * [stack2(python)] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AV184uV6I70CFAZN)
+ * [stack2] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AV184uV6I70CFAZN)
+
+
+
+___
+
+### week 3 ###
+
