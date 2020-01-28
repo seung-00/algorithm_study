@@ -8,24 +8,23 @@
 2. **구상**
 
    * 강의와 문제 활용
-
    * 자료구조 3주
-      * 파이썬 SW문제해결, SW 문제해결 각 일차 + self study book
-
+      * SWEA Programming Intermediate
    * 알고리즘 5주
+      * SWEA Programming Advanced
 
    참고: https://swexpertacademy.com/main/learn/course/courseList.do#none
 
 3. **집에서**
 
    * 각자 강의 듣고 해당 문제 품
-   * 모임 전까지 깃허브에 코드 올림
+   * 모임 전후로 깃허브에 코드 올림
 
 4. **만나서**
 
    * 그 날 담당자가 이론 및 문제 요약
-* 코드 리뷰
-   * 파이썬 sw문제해결 기본, sw문제해결 기본 마지막 문제 만나서 풀기(두 문제)
+   * 코드 리뷰
+   * 시간 재고 문제 풀기
 
 5. **규칙**
 
@@ -94,4 +93,140 @@
 ___
 
 ### week 3 ###
+
+**2019.01.20**
+
+ * 담당:  오승영
+
+ * [Queue] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVIoJqqfYDFAWg)
+
+   
+
+**2019.01.22**
+
+ * 담당: 정승호
+ * [Linked List] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVJ1r6qfkDFAWg)
+
+
+
+___
+
+### week 4 ###
+
+**2019.01.29**
+
+ * 담당:  ???
+
+ * [Tree] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVJ-_6qfsDFAWg)
+
+   
+
+**2019.01.31**
+
+ * 담당: ???
+ * [알고리즘 개론] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWG8AuUaDg0DFAVg)
+
+
+
+___
+
+### week 5 ###
+
+**2019.02.03**
+
+ * 담당:  ???
+
+ * [완전탐색&그리디] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWG8amS6AkkDFAWc)
+
+   
+
+**2019.02.05**
+
+ * 담당: ???
+ * [분할정복 & 백트래킹]] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWHA9y26A18DFAVR)
+
+
+
+**2019.02.07**
+
+ * 담당: ???
+ * [그래프] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWHBMqh6BFEDFAVR)
+
+
+
+
+
+___
+
+### week 6 ###
+
+**2019.02.10**
+
+ * 담당:  ???
+
+ * [문자열] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWHBjTjaBSwDFAVR)
+
+   
+
+**2019.02.12**
+
+ * 담당: ???
+ * [DP 1] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWHQbPNaAxQDFAUn)
+
+
+
+**2019.02.14**
+
+ * 담당: ???
+ * [DP 2] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWHQdIoaA2kDFAUn)
+
+
+
+
+
+___
+
+### week 7 ###
+
+**2019.02.17**
+
+ * 담당:  ???
+
+ * [Math & Probability] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWHQd4_KA3QDFAUn)
+
+   
+
+**2019.02.19**
+
+ * 담당: ???
+
+
+
+**2019.02.21**
+
+ * 담당: ???
+ * 
+
+
+
+___
+
+### week 8 ###
+
+**2019.02.24**
+
+ * 담당:  ???
+
+
+
+**2019.02.26**
+
+ * 담당: ???
+
+
+
+**2019.02.28**
+
+ * 담당: ???
+ * 
 
