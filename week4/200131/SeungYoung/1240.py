@@ -1,36 +1,45 @@
+Decode = {'0001101' : 0, '0011001':1, '0010011':2, '0111101':3, '0100011':4, '0110001':5, '0101111':6,'0111011':7,'0110111':8,'0001011':9}
+
+
 def CheckPwd(numList):
     if ((numList[0] + numList[2] + numList[4] + numList[6])*3 + numList[1]+numList[3]+numList[5]+numList[7])%10 == 0:
-        return True
+        return sum(numList)
+    else:   return 0
+
+def Search(table,N,M):
+    i = 0
+    j = M-1
+    while (table[i][j] != '1'):
+        i += 1
+        if i == N:
+            j -= 1
+            i = 0
+    return (i,j)
 
 
-def CheckNum(num):
-    if num == "0001101": return 0 
-    elif num == "0011001": return 1
-    elif num == "0010011": return 2
-    elif num == "0111101": return 3
-    elif num == "0100011": return 4
-    elif num == "0110001": return 5
-    elif num == "0101111": return 6
-    elif num == "0111011": return 7
-    elif num == "0110111": return 8
-    elif num == "0001011": return 9
+def GetPwd(table, i, j): # 끝의 i, j => (마지막 행, 첫 번째 열로 이동해서 찾음)
+    rstList = [0]*8
+    j -= 55
 
-def GetPwd(target): # target is str
-    rst = []
-    for pivot in range(len(target)-7):
-        temp = target[pivot:pivot+7]
-        if temp[0] == '0' and temp[-1] == '1':
-            tempNum = CheckNum(temp)
-            if tempNum:
-                rst.append(tempNum)
-                target = target[pivot+7: pivot+56]
-                for j in range(7):
-                    rst.append(CheckNum(target[j*7:(j+1)*7]))
-                break
-    return rst
+    for rstIdx in range(8):
+        pw = table[i][j:j+7]
+        rstList[rstIdx] = Decode[pw]
+        j+=7
+    return rstList
 
 
 
-rst = GetPwd("00000000000000011101101100010111011011000101100010001101001001101110110000000000")
-print(rst)
-print(CheckPwd(rst))
+def DetectCode(numList):
+    val = numList[1]+numList[3]+numList[5]+numList[7]+ (numList[0]+numList[2]+numList[4] + numList[6])*3
+    if val%10 == 0 :
+        return sum(numList)
+    else:
+        return 0
+
+tc = int(input())
+for c in range(tc):
+    N,M = map(int,input().split())
+    table = [input() for _ in range(N)]
+    endRow, endCol = Search(table, N, M)
+    codes = GetPwd(table,endRow, endCol)
+    print(CheckPwd(codes))
