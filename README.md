@@ -135,7 +135,7 @@ ___
 
 **2019.02.03**
 
- * 담당:  ???
+ * 담당:  주인재
 
  * [완전탐색&그리디] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWG8amS6AkkDFAWc)
 
@@ -143,14 +143,14 @@ ___
 
 **2019.02.05**
 
- * 담당: ???
+ * 담당: 오승영
  * [분할정복 & 백트래킹]] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWHA9y26A18DFAVR)
 
 
 
 **2019.02.07**
 
- * 담당: ???
+ * 담당: 정승호
  * [그래프] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWHBMqh6BFEDFAVR)
 
 
@@ -163,23 +163,21 @@ ___
 
 **2019.02.10**
 
- * 담당:  ???
-
- * [문자열] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWHBjTjaBSwDFAVR)
-
+ * 담당:  김연준
+ * [그래프] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWHBMqh6BFEDFAVR)
    
 
 **2019.02.12**
 
- * 담당: ???
- * [DP 1] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWHQbPNaAxQDFAUn)
+ * 담당: 주인재
+ * [문자열] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWHBjTjaBSwDFAVR)
 
 
 
 **2019.02.14**
 
- * 담당: ???
- * [DP 2] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWHQdIoaA2kDFAUn)
+ * 담당: 오승영
+* [DP 1] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWHQbPNaAxQDFAUn)
 
 
 
@@ -191,15 +189,15 @@ ___
 
 **2019.02.17**
 
- * 담당:  ???
-
- * [Math & Probability] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWHQd4_KA3QDFAUn)
+ * 담당:  정승호
+ * [DP 2] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWHQdIoaA2kDFAUn)
 
    
 
 **2019.02.19**
 
- * 담당: ???
+ * 담당: 김연준
+ * [Math & Probability] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWHQd4_KA3QDFAUn)
 
 
 
