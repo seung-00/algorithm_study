@@ -1,16 +1,13 @@
 def DFS(start):
     global rst
-    stack = [start]
-    while stack:
-        now = stack.pop()
-        visited[now] = 1
-        for nextNode in range(1, V+1):
-            # 1. 연결된 노드인가 2. 방문 안 한 노드인가
-            if graphTable[now][nextNode] and not visited[nextNode]:
-                if nextNode == goal:    
-                    rst = 1
-                    return
-                else: stack.append(nextNode)
+    visited[start] = 1
+    for nextNode in range(1, V+1):
+        # 1. 연결된 노드인가 2. 방문 안 한 노드인가
+        if graphTable[start][nextNode] and not visited[nextNode]:
+            if nextNode == goal:    
+                rst = 1
+                return
+            else: DFS(nextNode)
 
 
 tc = int(input())
