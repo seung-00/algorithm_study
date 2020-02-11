@@ -36,10 +36,15 @@ def DetectCode(numList):
     else:
         return 0
 
+rst = []
+
 tc = int(input())
 for c in range(tc):
     N,M = map(int,input().split())
     table = [input() for _ in range(N)]
     endRow, endCol = Search(table, N, M)
     codes = GetPwd(table,endRow, endCol)
-    print(CheckPwd(codes))
+    rst.append(CheckPwd(codes))
+
+for t,rst in enumerate(rst):
+    print("#{} {}".format(t+1,rst))

@@ -66,7 +66,7 @@
    {
      if (size == 1) return;
      
-   	// 분할
+       // 분할
      int mid = size /2;
      MergeSort(arr, mid);
      MergeSort(arr + mid, size - mid);
@@ -75,23 +75,24 @@
      // 임시 버퍼
      int * buf = new int[size];
      int i = 0, j = mid, k =0;
-     // i 는 왼쪽 배열, j는 오른쪽 배열 각각 비교해서 병합을 위한 배열에 넣어줌 
+     // i 는 왼쪽 배열, j는 오른쪽 배열 각각 비교해서 병합을 위한 배열에 넣어줌
      while (i < mid && j < size)
        buf[k++] = arr[i] < arr[j] ? arr[i++] : arr[j++];
      
-   	// 왼쪽 혹은 오른쪽이 남음
-     while (i < mid)	
+       // 왼쪽 혹은 오른쪽이 남음
+     while (i < mid)
        buf[k++] = arr[i++];
    
      while (i < size)
        buf[k++] = arr[j++];
    
-   	// 정렬된 값으로 덮어 써줌  
+       // 정렬된 값으로 덮어 써줌
      for (i = 0; i<size; ++i)
-       arr[i] = buf[i]
+         arr[i] = buf[i];
        
      delete buf;
    }
+   
    ```
 
 
@@ -181,6 +182,86 @@ int main()
 
 ```
 
+```python
+def QuickSort(l,r):
+    if l<r:
+        i = l + 1
+        j = r
+        p = l
+        while i<j:
+          # cpp과 비교
+            while nums[i] < nums[p] and i<j:
+                i+=1
+            while nums[j] >= nums[p] and i<=j:
+                j -= 1
+
+            if i < j:
+                nums[i],nums[j] = nums[j],nums[i]
+
+        if nums[p] > nums[j]: # 2 9 케이스 때문에.
+            nums[p],nums[j] = nums[j], nums[p]
+        QuickSort(l,j-1)
+        QuickSort(j+1,r)
+```
+
+
+
+```python
+# Python program for implementation of Quicksort Sort 
+  
+# This function takes last element as pivot, places 
+# the pivot element at its correct position in sorted 
+# array, and places all smaller (smaller than pivot) 
+# to left of pivot and all greater elements to right 
+# of pivot 
+def partition(arr,low,high): 
+    i = ( low-1 )         # index of smaller element 
+    pivot = arr[high]     # pivot 
+  
+    for j in range(low , high): 
+  
+        # If current element is smaller than the pivot 
+        if   arr[j] < pivot: 
+          
+            # increment index of smaller element 
+            i = i+1 
+            arr[i],arr[j] = arr[j],arr[i] 
+  
+    arr[i+1],arr[high] = arr[high],arr[i+1] 
+    return ( i+1 ) 
+  
+# The main function that implements QuickSort 
+# arr[] --> Array to be sorted, 
+# low  --> Starting index, 
+# high  --> Ending index 
+  
+# Function to do Quick sort 
+def quickSort(arr,low,high): 
+    if low < high: 
+  
+        # pi is partitioning index, arr[p] is now 
+        # at right place 
+        pi = partition(arr,low,high) 
+  
+        # Separately sort elements before 
+        # partition and after partition 
+        quickSort(arr, low, pi-1) 
+        quickSort(arr, pi+1, high) 
+  
+# Driver code to test above 
+arr = [10, 7, 8, 9, 1, 5] 
+n = len(arr) 
+quickSort(arr,0,n-1) 
+print ("Sorted array is:") 
+for i in range(n): 
+    print ("%d" %arr[i]), 
+  
+# This code is contributed by Mohit Kumra 
+
+```
+
+
+
 * **시간 복잡도: O(nlog n)** (병합 정렬과 마찬가지)
 
 
@@ -222,6 +303,7 @@ int BinarySearch(int arr[], int low, int high , int key)
   > n x n 체스판에 배치한 퀸들이 서로 위협하지 않도록 n 개의 퀸을 배치하라.
   >
   > 어떤 두 퀸도 서로를 위협하지 않도록, 퀸을 배치한  n 개의 위치는?
+
   * 8-퀸이라 하자. 8x8의 64개 판 중 8개의 위치를 정한다.
 
     조합으로 생각하면 매우 많은 경우의 수(64_C_8)
