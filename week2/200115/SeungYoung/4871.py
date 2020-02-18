@@ -1,22 +1,34 @@
-def DFS(graph, node, goal, visited = []):
-    if node not in visited:
-        if(node == goal):
-            return True
-        visited.append(node)
-    for neighbour in graph[node] - set(visited):
-        if(DFS(graph, neighbour, goal, visited)):
-            return True
+def DFS(start):
+    global rst
+    stack = [start]
+    while stack:
+        now = stack.pop()
+        visited[now] = 1
+        for nextNode in range(1, V+1):
+            # 1. 연결된 노드인가 2. 방문 안 한 노드인가
+            if graphTable[now][nextNode] and not visited[nextNode]:
+                if nextNode == goal:    
+                    rst = 1
+                    return
+                else: stack.append(nextNode)
+
 
 tc = int(input())
-for case in range(tc):
-    ve = list(map(int, input().split()))
-    graph = {v:set() for v in range(1,ve[0]+1)}
-    for e in range(ve[1]):
-        route = list(map(int, input().split()))
-        graph[route[0]].add(route[1])
-    root, goal = map(int, input().split())
-    print("#{} ".format(case+1),end='')
-    if(DFS(graph, root, goal)):
-        print(1)
-    else:
-        print(0)
+for c in range(tc):
+    rst = 0
+
+    #다음 줄부터 테스트 케이스의 첫 줄에 V와 E가 주어진다. 5≤V≤50, 4≤E≤1000
+    V,E = map(int,input().split())
+
+    #인접 행렬 만들기
+    graphTable = [list(0 for i in range(V+1)) for j in range(V+1)]
+
+    # 방문리스트
+    visited = [0] * (V+1)
+    
+    for _ in range(E):
+        startV, endV = map(int,input().split())
+        graphTable[startV][endV] = 1
+    start, goal = map(int,input().split())
+    DFS(start)
+    print("#{} {}".format(c+1, rst))
