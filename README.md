@@ -165,7 +165,6 @@ ___
 
  * 담당:  김연준
  * [그래프] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWHBMqh6BFEDFAVR)
-   
 
 **2019.02.12**
 
@@ -176,10 +175,10 @@ ___
 
 **2019.02.14**
 
- * 담당: 오승영
-* [DP 1] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWHQbPNaAxQDFAUn)
-
-
+ * 담당: 모두
+* [DP 1] 
+  * 유튜브 권오흠 알고리즘 18강
+  * [SWEA DP1](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
 
 
 
@@ -189,43 +188,12 @@ ___
 
 **2019.02.17**
 
- * 담당:  정승호
- * [DP 2] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWHQdIoaA2kDFAUn)
+ * 담당:  모두
+ * [DP 2]
 
    
 
 **2019.02.19**
 
- * 담당: 김연준
- * [Math & Probability] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWHQd4_KA3QDFAUn)
-
-
-
-**2019.02.21**
-
- * 담당: ???
- * 
-
-
-
-___
-
-### week 8 ###
-
-**2019.02.24**
-
- * 담당:  ???
-
-
-
-**2019.02.26**
-
- * 담당: ???
-
-
-
-**2019.02.28**
-
- * 담당: ???
- * 
-
+ * 담당: 모두
+ * [DP 3]
