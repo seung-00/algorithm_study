@@ -2,7 +2,7 @@
 
 1. **일정 및 시간**
 
-   * 2019.1.6 ~ 개강
+   * 2020.1.6 ~ 개강
    * 월, 수, 금 15시
 
 2. **구상**
@@ -37,13 +37,13 @@
 
 ### week 1 ###
 
-**2019.01.06**
+**2020.01.06**
 
 * OT
 
   
 
-**2019.01.08**
+**2020.01.08**
 
  * 담당: 오승영
 
@@ -53,7 +53,7 @@
 
    
 
-**2019.01.10**
+**2020.01.10**
 
  * 담당: 정승호
 
@@ -67,7 +67,7 @@
 
 ### week 2 ###
 
-**2019.01.13**
+**2020.01.13**
 
  * 담당: 김연준
  * [string(python)] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVGOEKqeoDFAWg)
@@ -75,7 +75,7 @@
 
 
 
-**2019.01.15**
+**2020.01.15**
 
  * 담당: 주인재
  * [stack1(python)] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVHzyqqe8DFAWg)
@@ -83,7 +83,7 @@
 
 
 
-**2019.01.17**
+**2020.01.17**
 
  * 담당: 오승영
  * [stack2(python)] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AV184uV6I70CFAZN)
@@ -95,7 +95,7 @@ ___
 
 ### week 3 ###
 
-**2019.01.20**
+**2020.01.20**
 
  * 담당:  오승영
 
@@ -103,7 +103,7 @@ ___
 
    
 
-**2019.01.22**
+**2020.01.22**
 
  * 담당: 정승호
  * [Linked List] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVJ1r6qfkDFAWg)
@@ -114,7 +114,7 @@ ___
 
 ### week 4 ###
 
-**2019.01.29**
+**2020.01.29**
 
  * 담당:  ???
 
@@ -122,7 +122,7 @@ ___
 
    
 
-**2019.01.31**
+**2020.01.31**
 
  * 담당: ???
  * [알고리즘 개론] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWG8AuUaDg0DFAVg)
@@ -133,7 +133,7 @@ ___
 
 ### week 5 ###
 
-**2019.02.03**
+**2020.02.03**
 
  * 담당:  주인재
 
@@ -141,14 +141,14 @@ ___
 
    
 
-**2019.02.05**
+**2020.02.05**
 
  * 담당: 오승영
  * [분할정복 & 백트래킹]] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWHA9y26A18DFAVR)
 
 
 
-**2019.02.07**
+**2020.02.07**
 
  * 담당: 정승호
  * [그래프] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWHBMqh6BFEDFAVR)
@@ -161,19 +161,19 @@ ___
 
 ### week 6 ###
 
-**2019.02.10**
+**2020.02.10**
 
  * 담당:  김연준
  * [그래프] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWHBMqh6BFEDFAVR)
 
-**2019.02.12**
+**2020.02.12**
 
  * 담당: 주인재
  * [문자열] [link](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWHBjTjaBSwDFAVR)
 
 
 
-**2019.02.14**
+**2020.02.14**
 
  * 담당: 모두
 * [DP 1] 
@@ -186,14 +186,14 @@ ___
 
 ### week 7 ###
 
-**2019.02.17**
+**2020.02.17**
 
  * 담당:  모두
  * [DP 2]
 
    
 
-**2019.02.19**
+**2020.02.19**
 
  * 담당: 모두
  * [DP 3]
